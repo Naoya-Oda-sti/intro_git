@@ -5,3 +5,5 @@ second
 git status
 
 git rm
+
+new
