@@ -3,3 +3,5 @@ git training
 second
 
 git status
+
+git rm
