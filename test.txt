@@ -7,3 +7,5 @@ git status
 git rm
 
 new
+
+git diff
